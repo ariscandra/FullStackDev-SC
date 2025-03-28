@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Press+Start+2P&display=swap');
 
 body {
-    background-color: #181C14;
+    background-color: #0D1117;
     margin: 0;
     padding: 0;
     display: flex;
@@ -83,5 +83,5 @@ h2 {
 }
 
 .tombol:hover {
-    background-color: #4a4b45;
+    background-color: #29C7AC;
 }
