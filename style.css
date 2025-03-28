@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Press+Start+2P&display=swap');
+
+body {
+    background-color: #181C14;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    text-align: center;
+    width: 100%;
+    max-width: 700px;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.karakter {
+    width: 100px;
+    height: auto;
+    margin-right: 5px;
+}
+
+h1 {
+    font-family: 'Press Start 2P', monospace;
+    color: white;
+    margin: 0;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: 'Press Start 2P', monospace;
+    color: white;
+    margin: 0;
+    font-size: 16px;
+    text-align: center;
+}
+
+.box-konten {
+    background-color: #ECDFCC;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.box-konten h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-top: 0;
+    font-size: 18px;
+}
+
+.box-konten p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: black;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.tombol {
+    background-color: #3c3d37;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.tombol:hover {
+    background-color: #4a4b45;
+}
