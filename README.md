@@ -1,7 +1,3 @@
-**Lihat laman website <a href="https://ariscandra.github.io/FullStackDev-SC/">disini</a>**
-
----
-
 # Dokumentasi Laman Website
 ## Aris' Pixelverse
 ### Early Version
@@ -11,3 +7,5 @@
 
 ### Final Version
 <img src="https://github.com/user-attachments/assets/55082d7c-39b1-491c-9bfa-0e3bdea64575" width="800">
+
+**Lihat laman website <a href="https://ariscandra.github.io/FullStackDev-SC/">disini</a>**
