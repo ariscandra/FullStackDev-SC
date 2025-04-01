@@ -1,8 +1,7 @@
 Lihat laman situs disini: https://ariscandra.github.io/FullStackDev-SC/
+---
 # Dokumentasi Laman Website
-
 ## Aris' Pixelverse
-
 ### Early Version
 <img src="https://github.com/user-attachments/assets/41781bb9-d075-47ff-9075-97242f33fdbd" width="800">
 
